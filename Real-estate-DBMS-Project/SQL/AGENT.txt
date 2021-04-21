@@ -1,0 +1,8 @@
+("MDU101","JAVEED",9629028662,"password",6,5),
+("MDU102","SANIAL",9879879872,"wordpass",7,5),
+("MDU103","RAHUL",9879879873,"dorwpass",8,4),
+("MDU104","SHUBHAM",9879879874,"voldemort",8,4),
+("MDU105","VIRGIL",9879879875,"harry",6,4),
+("MDU106","HENDERSON",9879879876,"potter",4,4),
+("MDU107","FABINHO",9870989877,"stickman",3,2),
+("MDU108","GINI",9879879878,"goldship",2,2);
